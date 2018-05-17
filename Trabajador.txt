@@ -1,0 +1,8 @@
+a;victor;navarro;12;7;3;Normal
+2;tinto;navarro;2600000;400;1000000;Estrella
+trabajador1;Victor;Navarro;30000;2700000;890000;Estrella
+tinto;navarro;soto;3000000;2000000;1000000;Estrella
+ba;qwerty;asdf;12345;32113;200000;Normal
+tr12;juan;perez;987;31231;7000000;Estrella
+v1;asd;asdasd;12;23;3000000;Estrella
+123;asd;fdfg;123;321;4545;Normal
